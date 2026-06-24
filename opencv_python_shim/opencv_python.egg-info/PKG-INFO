@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: opencv-python
+Version: 4.13.0.92
+Summary: Compatibility shim that uses opencv-python-headless on servers
+Requires-Python: >=3.9
+Requires-Dist: opencv-python-headless==4.13.0.92
